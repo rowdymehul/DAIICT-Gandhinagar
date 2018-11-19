@@ -6,13 +6,13 @@ DAIICT-Gandhinagar is the third annual Developers' Conference to be organised by
 The Conference will take place at Nov 30, Dec 1-2, 2018 in Gandhinagar. [Full story](http://www.daiict.ac.in/daiict/index.html)
 
 * Talk 1st : JS Authentication with Auth0
-* Theme : Workshop
-* Description : This is introductory talk about the JS Authentication, where Viral will discuss about the role that Auth0 authentication plays in modern software development where it is a lot more than just the login screen. You will be able to learn about the different concept about the authentication with JS and In this talk the audience will learned about the different concepts that make up modern identity important for us to be secure, it will also enable people from the different peers technical as well as non-technical enthusiast to take opportunities to rethink of Authentication process of web application. 
+  * Theme : Workshop
+  * Description : This is introductory talk about the JS Authentication, where Viral will discuss about the role that Auth0 authentication plays in modern software development where it is a lot more than just the login screen. You will be able to learn about the different concept about the authentication with JS and In this talk the audience will learned about the different concepts that make up modern identity important for us to be secure, it will also enable people from the different peers technical as well as non-technical enthusiast to take opportunities to rethink of Authentication process of web application. 
 
 
 * Talk 2nd : Git + Github = Easy(SCM + Collaboration)
-* Theme : Workshop
-* Description : Git + Github = Easy(SCM + Collaboration). This will quick hands-on and best practice on Git & Github since its a wild area of open source. This will leads contributors to contribute to OSS projects.
+  * Theme : Workshop
+  * Description : Git + Github = Easy(SCM + Collaboration). This will quick hands-on and best practice on Git & Github since its a wild area of open source. This will leads contributors to contribute to OSS projects.
 
 ### Goals : 
 
