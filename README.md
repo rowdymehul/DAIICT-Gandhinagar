@@ -1,7 +1,7 @@
 # DAIICT-Gandhinagar
 
 # devconfIN 2018
-DAIICT-Gandhinagar is the second annual Developers' Conference to be organised by Red Hat in Gujarat, India. It is meant to provide a platform to the local FOSS community participants to come together and engage in the knowledge sharing through technical talks, workshops, panel discussions, hackathon and such activities.
+DAIICT-Gandhinagar is the third annual Developers' Conference to be organised by Red Hat in Gujarat, India. It is meant to provide a platform to the local FOSS community participants to come together and engage in the knowledge sharing through technical talks, workshops, panel discussions, hackathon and such activities.
 
 The Conference will take place at Nov 30, Dec 1-2, 2018 in Gandhinagar. [Full story](http://www.daiict.ac.in/daiict/index.html)
 
